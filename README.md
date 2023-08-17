@@ -1,6 +1,7 @@
 ### Hi I'm GwanSon 👋
-#### Major : Computer Engineering
-##### Studying : REACT-NATIVE, JAVASCRIPT
+Major : Computer Engineering
+
+Studying : REACT-NATIVE, JAVASCRIPT
 
 <!--
 **Gwan-Son/Gwan-Son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
