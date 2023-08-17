@@ -1,4 +1,4 @@
-### Hi I'm GwanSon 👋
+### GwanSon
 Major : Computer Engineering
 
 Studying : REACT-NATIVE, JAVASCRIPT
