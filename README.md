@@ -1,7 +1,28 @@
-<div align="center"><h1>✔I'm GwanSon</h1>
-<h4>My major is Computer Engineering</h2></div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=7d1520&text=&animation=twinkling&height=125)
 
-<div align="center"><h1>📚 Once I've Used</h1></div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=7d1520&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi!+I'm+GwanSon!👋)](https://git.io/typing-svg)
+
+ ---
+
+ <div align="center">
+   
+   ![GwanSon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwan-Son&show_icons=true&theme=maroongold )
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwan-Son&layout=compact&theme=maroongold )
+   
+ </div>
+
+<div align="center"><h2>📞 Contact</h1>
+  <a href="https://www.instagram.com/sim_gwan_hyeok/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+  </a>
+  <a href="mailto:id1593572580@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+  </a>
+</div><br/>
+
+
+ 
+<div align="center"><h2>📚 Once I've Used</h1>
 <br/>
 
 <div align="center">
@@ -28,3 +49,6 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7d1520)
