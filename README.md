@@ -7,4 +7,5 @@
 
 - 동아대학교 컴퓨터공학과 졸업 (2024)
 ---
-![GwanSon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwan-Son&count_private=true&hide_rank=false&include_all_commits=true&theme=shadow_blue )
+![GwanSon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwan-Son&show_icons=true&hide_rank=true&locale=kr&include_all_commits=true&theme=shadow_blue )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwan-Son&langs_count=3)](https://github.com/Gwan-Son/github-readme-stats)
