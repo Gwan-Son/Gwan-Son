@@ -18,7 +18,7 @@
 ---
 </div>
 
-<div align="center">
+<div align="left">
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=id147369"/>
 
 ### 📞 Contact 📞
