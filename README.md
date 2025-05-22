@@ -20,6 +20,7 @@
 
 <div align="left">
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=id147369"/>
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/id147369" width="600" height="300"/></a>
 
 ### 📞 Contact 📞
 <a href="mailto:id1593572580@gmail.com"><img src="https://img.shields.io/badge/id1593572580@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"></a>
