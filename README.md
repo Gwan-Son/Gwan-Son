@@ -18,7 +18,7 @@
 ---
 </div>
 
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/id147369" width="600" height="300"/></a>
+<!--<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/id147369" width="600" height="300"/></a>-->
 
 <div align="left">
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=id147369"/>
