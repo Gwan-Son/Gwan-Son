@@ -32,7 +32,7 @@
 <br>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=plastic&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwan-Son&layout=compact&langs_count=8"/>
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=Gwan-Son&layout=compact&langs_count=8"/>-->
 
 ### 🧑‍🔧 Tools 🧑‍🔧
 
